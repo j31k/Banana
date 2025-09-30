@@ -9,10 +9,16 @@
     "preview": "vite preview",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
   },
-  "keywords": ["banana", "react", "vite", "web-app"],
+  "keywords": [
+    "banana",
+    "react",
+    "vite",
+    "web-app"
+  ],
   "author": "Developer",
   "license": "MIT",
   "dependencies": {
+    "express": "^5.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.0"
